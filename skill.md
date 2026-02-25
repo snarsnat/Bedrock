@@ -1,6 +1,4 @@
-Here is the cleaned and properly structured `SKILL.md` file, with redundant labels removed and formatting standardized.
 
----
 
 # SKILL.md — Autonomous Deep Context Agent
 
